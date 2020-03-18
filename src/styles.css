@@ -1,8 +1,8 @@
 /* add css styles here (optional) */
-
-.test {
+h1{
+  background-color: lightblue;
   display: inline-block;
-  margin: 2em auto;
-  border: 2px solid #000;
-  font-size: 2em;
+  padding: 1%;
+  border: 1px solid black;
+  border-radius: 10px;
 }
